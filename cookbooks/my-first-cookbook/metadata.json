@@ -1,0 +1,30 @@
+{
+  "name": "my-first-cookbook",
+  "description": "Installs/Configures my-first-cookbook",
+  "long_description": "Description\n===========\n\nRequirements\n============\n\nAttributes\n==========\n\nUsage\n=====\n\n",
+  "maintainer": "reallyreallsuperbad.com",
+  "maintainer_email": "satan@hell.org",
+  "license": "All rights reserved Cause you have none, well do what you want and leave me alone!",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "my-first-cookbook::helloworld": "this just prints helloworld out to the dashboard"
+  },
+  "version": "0.0.1"
+}
